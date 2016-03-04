@@ -1,0 +1,28 @@
+name: www.30dayvegchallenge.co.uk
+favicon: null
+layout_spectrum: 0.27248270297423005
+typography_spectrum: 0.18689818819984794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11052520805969834
+  lightness: 0.5732855899259448
+  saturation: 0.4429569796193391
+  rhythmicContrast: 0.13746328046545386
+purpose: []
